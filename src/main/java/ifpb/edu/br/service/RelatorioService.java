@@ -1,6 +1,6 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Relatorio;
+import ifpb.edu.br.model.Relatorio;
 
 import java.time.LocalDate;
 

@@ -1,6 +1,6 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Produto;
+import ifpb.edu.br.model.Produto;
 
 import java.util.List;
 

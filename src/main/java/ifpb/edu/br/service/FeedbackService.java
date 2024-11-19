@@ -1,6 +1,6 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Feedback;
+import ifpb.edu.br.model.Feedback;
 
 import java.util.List;
 

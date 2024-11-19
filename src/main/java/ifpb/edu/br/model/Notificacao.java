@@ -1,4 +1,4 @@
-package ifpb.edu.br.entities;
+package ifpb.edu.br.model;
 
 public class Notificacao {
 }

@@ -1,7 +1,7 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Pagamento;
-import ifpb.edu.br.entities.Pedido;
+import ifpb.edu.br.model.Pagamento;
+import ifpb.edu.br.model.Pedido;
 
 import java.util.List;
 

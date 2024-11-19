@@ -1,9 +1,8 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Usuario;
+import ifpb.edu.br.model.Usuario;
 
 import java.util.List;
-import java.time.LocalDate;
 
 public interface UsuarioService {
     void registrarUsuario(Usuario usuario);

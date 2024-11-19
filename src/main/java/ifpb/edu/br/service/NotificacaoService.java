@@ -1,6 +1,6 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Notificacao;
+import ifpb.edu.br.model.Notificacao;
 
 import java.util.List;
 

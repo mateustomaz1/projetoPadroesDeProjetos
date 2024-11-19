@@ -1,6 +1,6 @@
 package ifpb.edu.br.service;
 
-import ifpb.edu.br.entities.Categoria;
+import ifpb.edu.br.model.Categoria;
 
 import java.util.List;
 
