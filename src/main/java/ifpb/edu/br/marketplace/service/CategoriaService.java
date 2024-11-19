@@ -1,8 +1,8 @@
-package ifpb.edu.br.service;
-
-import ifpb.edu.br.model.Categoria;
+package ifpb.edu.br.marketplace.service;
 
 import java.util.List;
+
+import ifpb.edu.br.marketplace.model.Categoria;
 
 public interface CategoriaService {
     void adicionarCategoria(Categoria categoria);

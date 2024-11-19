@@ -1,9 +1,9 @@
-package ifpb.edu.br.service;
-
-import ifpb.edu.br.model.Pagamento;
-import ifpb.edu.br.model.Pedido;
+package ifpb.edu.br.marketplace.service;
 
 import java.util.List;
+
+import ifpb.edu.br.marketplace.model.Pagamento;
+import ifpb.edu.br.marketplace.model.Pedido;
 
 public interface PagamentoService {
     boolean processarPagamento(Pedido pedido);
