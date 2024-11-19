@@ -1,8 +1,8 @@
-package ifpb.edu.br.service;
-
-import ifpb.edu.br.model.Usuario;
+package ifpb.edu.br.marketplace.service;
 
 import java.util.List;
+
+import ifpb.edu.br.marketplace.model.Usuario;
 
 public interface UsuarioService {
     void registrarUsuario(Usuario usuario);

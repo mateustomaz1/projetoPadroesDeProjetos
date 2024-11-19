@@ -1,8 +1,8 @@
-package ifpb.edu.br.service;
-
-import ifpb.edu.br.model.Produto;
+package ifpb.edu.br.marketplace.service;
 
 import java.util.List;
+
+import ifpb.edu.br.marketplace.model.Produto;
 
 public interface ProdutoService {
     void adicionarProduto(Produto produto);

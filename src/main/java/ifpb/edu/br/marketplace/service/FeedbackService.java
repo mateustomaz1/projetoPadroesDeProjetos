@@ -1,8 +1,8 @@
-package ifpb.edu.br.service;
-
-import ifpb.edu.br.model.Feedback;
+package ifpb.edu.br.marketplace.service;
 
 import java.util.List;
+
+import ifpb.edu.br.marketplace.model.Feedback;
 
 public interface FeedbackService {
     void adicionarFeedback(Feedback feedback);
